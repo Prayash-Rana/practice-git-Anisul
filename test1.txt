@@ -1,4 +1,4 @@
 this is test1 
 added some line in it
 this is third line
-loop alignment centered
+logo alignment centered
